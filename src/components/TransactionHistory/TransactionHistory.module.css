@@ -1,0 +1,25 @@
+.transactionHistory {
+  margin-top: 30px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: rgb(25, 35, 53);
+  width: 400px;
+}
+
+.th {
+  color: rgb(255, 8, 58);
+  border-right: 1px solid blue;
+}
+
+.tr {
+  text-align: center;
+  width: 500px;
+  border: 1px solid blue;
+  color: blueviolet;
+}
+
+.td {
+  border: 1px solid blue;
+  color: #fff;
+  text-shadow: 0 0 2px #000;
+}

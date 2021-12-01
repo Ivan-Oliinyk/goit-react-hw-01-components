@@ -1,0 +1,19 @@
+.avatar {
+  width: 80px;
+}
+.online {
+  width: 50px;
+  height: 80px;
+  background-color: green;
+}
+
+.offline {
+  width: 50px;
+  height: 80px;
+  background-color: red;
+}
+
+.name {
+  font-weight: 700;
+  text-transform: uppercase;
+}
